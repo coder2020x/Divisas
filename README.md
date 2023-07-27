@@ -22,7 +22,7 @@ Conversor de Divisas
 
 **ver Gif :**
 
-![Gif demo de Conversión de Divisas]((https://github.com/coder2020x/Divisas/blob/main/src/images/ani.gif)
+![Gif demo de Conversión de Divisas]![Output gif](https://github.com/coder2020x/Divisas/blob/main/src/images/ani.gif)
 
 **Vista Previa 👁️:**
 
