@@ -22,13 +22,13 @@ Conversor de Divisas
 
 **ver Gif :**
 
-![Gif demo de Conversión de Divisas](https://)
+![Gif demo de Conversión de Divisas]([https://](https://github.com/coder2020x/Divisas/blob/main/src/images/ani.gif))
 
 **Vista Previa 👁️:**
 
-![Vista Previa Interfaz Conversor de Divisas](https://)
+![Vista Previa Interfaz Conversor de Divisas]([https://]https://github.com/coder2020x/Divisas/blob/main/src/images/divi.jpg))
 
-![Vista Previa Interfaz Conversor de Temperatura](https://)
+![Vista Previa Interfaz Conversor de Temperatura]([https://](https://github.com/coder2020x/Divisas/blob/main/src/images/temp.jpg))
 
 **Requisitos Proyecto:**
 
